@@ -6,7 +6,7 @@ title: Titelfolie
 
 
 
-<img src="/img/dfki-germany2.png" width="300"/>
+<img src="/img/spell-logo.png" width="300"/>
 keine Zauberei, sondern der Weg zur <br> vernetzten KI-gestützten Leitstelle von morgen
 <!--keine Zauberei, sondern der Weg zur <br>vernetzten KI-gestützten Leitstelle von morgen-->
 
