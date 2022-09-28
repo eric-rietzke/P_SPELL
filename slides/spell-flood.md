@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: https://eric-rietzke.github.io/P_SPELL/img/trier-flood.gif
+image: /img/trier-flood.gif
 ---
 
 # Flutsimulation Trier

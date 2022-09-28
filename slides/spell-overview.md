@@ -1,5 +1,5 @@
 <div style="float: left; width:40%;">
-<img src="https://eric-rietzke.github.io/P_SPELL/img/SPELL-Konsortium.png" width="350" />
+<img src="/img/SPELL-Konsortium.png" width="350" />
 </div>
 
 
@@ -29,5 +29,5 @@ Innovationswettbewerb „Künstliche Intelligenz als Treiber für volkswirtschaf
 </div>
 
 <div style="position:absolute; z-index:1000; bottom:15px; right:0px;">
-<img src="https://eric-rietzke.github.io/P_SPELL/img/bmwk.png" width="130" />
+<img src="/img/bmwk.png" width="130" />
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: https://eric-rietzke.github.io/P_SPELL/img/victor-hugo.jpg
+image: /img/victor-hugo.jpg
 title: Victor Hugo - Thanks
 ---
 <br><br>
