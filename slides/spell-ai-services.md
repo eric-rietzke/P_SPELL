@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: /img/ai-services.png
+image: /public/img/ai-services.png
 ---
 
 # KI basierte Mehrwertdienste

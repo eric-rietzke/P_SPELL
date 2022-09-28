@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: /img/victor-hugo.jpg
+image: /public/img/victor-hugo.jpg
 title: Victor Hugo - Thanks
 ---
 <br><br>

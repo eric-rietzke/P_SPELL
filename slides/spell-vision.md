@@ -3,7 +3,7 @@ title: Defizite und Visionen
 ---
 
 <div style="position: absolute; height: 100%; width: 30%; right: 0px; top: 0px; font-size: 90%;">
-<img src="/img/target2.png" class="h-100" />
+<img src="/public/img/target2.png" class="h-100" />
 </div>
 
 
