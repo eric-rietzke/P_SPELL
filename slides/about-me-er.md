@@ -17,7 +17,7 @@ Dr. Eric Rietzke
 </div>
 
 <div style="position: absolute; left: 5%; top: 30%;">
-<img src="/public/img/pic-eric.jpg" style="margin-top:-20px;" class="h-62 rounded shadow" />
+<img src="./public/img/pic-eric.jpg" style="margin-top:-20px;" class="h-62 rounded shadow" />
 </div>
 
 <script setup>

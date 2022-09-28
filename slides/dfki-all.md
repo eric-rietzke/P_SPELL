@@ -3,7 +3,7 @@ title: DFKI
 ---
 
 <div style="float: left; width:35%; top:10px;">
-  <img src="/public/img/dfki-germany2.png" />
+  <img src="./public/img/dfki-germany2.png" />
 </div>
 
 <div style="float: right; width:60%;">

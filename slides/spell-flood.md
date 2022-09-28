@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: /public/img/trier-flood.gif
+image: ./public/img/trier-flood.gif
 ---
 
 # Flutsimulation Trier

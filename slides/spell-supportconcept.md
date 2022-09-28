@@ -1,7 +1,7 @@
 # Rollenverständnis - Mensch - Maschine (KI)
 
 <div style="position: absolute; width: 70%; left: 15%">
-<img src="/public/img/wissenstreppe.png" />
+<img src="./public/img/wissenstreppe.png" />
 </div>
 
 <div style="position: absolute; bottom: 20px; right: 20px; font-size: 50%; color: #999">
@@ -16,7 +16,7 @@ preload: false
 # Rollenverständnis - Mensch - Maschine (KI)
 
 <div style="position: absolute; width: 70%; left: 15%">
-<img src="/public/img/wissenstreppe.png" />
+<img src="./public/img/wissenstreppe.png" />
 </div>
 
 <div style="position: absolute; width: 70%; left: 15%">
@@ -26,7 +26,7 @@ preload: false
         :enter="{ x: -120, y: 50, opacity: 1, transition: { duration: 0, delay: 0 } }"
     >
         <img
-            src="/public/img/circle1.png"
+            src="./public/img/circle1.png"
         />
         <div style="transform: rotate(-15deg);">
             <h2
@@ -40,7 +40,7 @@ preload: false
             :enter="{ x: 120, y: -450, opacity: 1, transition: { duration: 0, delay: 0 } }"
     >
         <img
-            src="/public/img/circle2.png"
+            src="./public/img/circle2.png"
         />
         <div style="transform: rotate(-15deg);">
             <h2
