@@ -6,4 +6,4 @@ title: SPELL-mini - Schichtenmodell
 
 Zentrale Wissensbasis als Ausgangspunkt für KI-basierte Mehrwertdienste.
 
-<img src="/img/spell-layers.png" alt="SPELL Schichtenmodell" style="height:80%; margin: auto">
+<img src="https://eric-rietzke.github.io/P_SPELL/img/spell-layers.png" alt="SPELL Schichtenmodell" style="height:80%; margin: auto">

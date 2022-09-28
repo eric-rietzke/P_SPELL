@@ -1,6 +1,6 @@
 ---
 layout: image-left
-image: /img/ai-services.png
+image: https://eric-rietzke.github.io/P_SPELL/img/ai-services.png
 ---
 
 # KI basierte Mehrwertdienste

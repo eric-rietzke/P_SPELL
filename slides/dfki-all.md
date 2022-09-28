@@ -3,7 +3,7 @@ title: DFKI
 ---
 
 <div style="float: left; width:35%; top:10px;">
-  <img src="/img/dfki-germany2.png" />
+  <img src="https://eric-rietzke.github.io/P_SPELL/img/dfki-germany2.png" />
 </div>
 
 <div style="float: right; width:60%;">
