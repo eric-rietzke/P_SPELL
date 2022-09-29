@@ -54,6 +54,10 @@ layout: section
 # Technische <br>Umsetzung
 
 ---
+src: ./slides/kg.md
+--- 
+
+---
 src: ./slides/spell-layers.md
 --- 
 
