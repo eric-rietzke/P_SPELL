@@ -7,16 +7,16 @@ title: Titelfolie
 
 
 <img src="/img/SPELL-logo.png" width="300"/>
-keine Zauberei, sondern der Weg zur <br> vernetzten KI-gestützten Leitstelle von morgen
+Entscheidungsunterstützung bei Notfällen und Krisen
 <!--keine Zauberei, sondern der Weg zur <br>vernetzten KI-gestützten Leitstelle von morgen-->
 
 <br><br><br>
 
 
 <div style="position: absolute; width: 400px; height: 80px; left: 10px; bottom: 10px;">
-    3. Neu-Ulmer Leitstellentage
+    Innovationssymposium Künstliche Intelligenz
     <br/>
-    <span style="font-size: small">28. - 29. Sept. 2022</span>
+    <span style="font-size: small">11. Okt. 2022</span>
 </div>
 
 <div style="position: absolute; width: 400px; height: 80px; right: 10px; bottom: 10px;">

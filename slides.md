@@ -31,55 +31,48 @@ src: ./slides/dfki-all.md
 src: ./slides/spell-overview.md
 ---
 
----
-src: ./slides/spell-deficit.md
----
+<!-- --- -->
+<!-- src: ./slides/spell-deficit.md -->
+<!-- --- -->
 
 ---
 src: ./slides/spell-goals.md
 ---
 
----
-src: ./slides/spell-innovation.md
---- 
+<!-- --- -->
+<!-- src: ./slides/spell-innovation.md -->
+<!-- ---  -->
 
 ---
 src: ./slides/spell-plattform.md
 --- 
 
----
-layout: section
----
+<!-- --- -->
+<!-- layout: section -->
+<!-- --- -->
 
-# Technische <br>Umsetzung
+<!-- # Technische <br>Umsetzung -->
 
----
-src: ./slides/kg.md
---- 
+<!-- --- -->
+<!-- src: ./slides/kg.md -->
+<!-- ---  -->
 
----
-src: ./slides/spell-layers.md
---- 
+<!-- --- -->
+<!-- src: ./slides/spell-layers.md -->
+<!-- ---  -->
 
----
-src: ./slides/spell-ks.md
---- 
+<!-- --- -->
+<!-- src: ./slides/spell-ks.md -->
+<!-- ---  -->
 
----
-src: ./slides/spell-map.md
---- 
+<!-- --- -->
+<!-- src: ./slides/spell-map.md -->
+<!-- ---  -->
 
----
-src: ./slides/spell-flood.md
---- 
+<!-- --- -->
+<!-- src: ./slides/spell-flood.md -->
+<!-- ---  -->
 
-
----
-layout: section
----
-
-# HCI
-Human Computer Interaction
 
 ---
 src: ./slides/spell-fast-versus-right.md
@@ -90,6 +83,13 @@ src: ./slides/spell-ai-services.md
 --- 
 
 ---
+layout: section
+---
+
+# HCI
+Human Computer Interaction
+
+---
 src: ./slides/spell-supportconcept.md
 ---
 
@@ -97,17 +97,23 @@ src: ./slides/spell-supportconcept.md
 layout: section
 ---
 
-# Demonstrator
-Simplexity - ein Blick auf den Mental Workload
+<!-- # Demonstrator -->
+<!-- Simplexity - ein Blick auf den Mental Workload -->
+# Mental Workload
+Simplexity - komplexe Sachverhalte einfach darstellen
 
 ---
-src: ./slides/spell-demonstrator.md
+src: ./slides/spell-demonstrator-pic.md
 ---
 
----
-src: ./slides/spell-vision.md
----
+<!-- --- -->
+<!-- src: ./slides/spell-vision.md -->
+<!-- --- -->
 
 ---
-src: ./slides/Victor-Hugo.md
+src: ./slides/hci.md
 ---
+
+<!-- --- -->
+<!-- src: ./slides/Victor-Hugo.md -->
+<!-- --- -->

@@ -51,6 +51,6 @@ preload: false
 </div>
 
 <div style="position: absolute; bottom: 20px; right: 20px; font-size: 50%; color: #999">
-<a href="https://openai.com/dall-e-2/" target="_blank">angelehnt an Wissenstreppe nach North (2011)
+<a>angelehnt an Wissenstreppe nach North (2011)
 </a>
 </div>
